@@ -13,5 +13,205 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\week1">
+      <UniqueIdentifier>{63d192e6-c3c2-4e5a-8f02-548dd548641d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\week2">
+      <UniqueIdentifier>{620768cf-9e2b-469f-95dc-4418412df841}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\week3">
+      <UniqueIdentifier>{54f40c94-1935-4cf3-a7e9-d615e23416d3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="week1\P01.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P02.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P03.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P04.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P05.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P06.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P07.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P08.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P09.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P10.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P11.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P12.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P13.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P14.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P15.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P16.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P17.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P18.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P19.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P20.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P21.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P22.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P23.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week1\P24.cpp">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\07-1.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\07-2.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\07-3.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\07-4.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\08-1.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\08-2.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\08-3.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\08-4.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\09-1.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\09-2.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\09-3.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\09-4.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\10-1.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\10-2.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\10-3.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\10-4.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\11-1.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\11-2.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\11-3.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\11-4.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\12-1.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\12-2.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\12-3.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\12-4.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\13-1.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\13-2.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\13-3.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week2\13-4.cpp">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="week3\14-1.cpp">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="week3\14-2.cpp">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="week3\14-3.cpp">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="week3\14-4.cpp">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="week3\15-1.cpp">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="week3\15-2.cpp">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="week3\15-3.cpp">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="week3\15-4.cpp">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="week3\16-1.cpp">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="week3\16-2.cpp">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="week3\16-3.cpp">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

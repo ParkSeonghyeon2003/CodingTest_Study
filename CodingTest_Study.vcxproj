@@ -85,6 +85,7 @@
     <ClCompile Include="week3\16-4.cpp" />
     <ClCompile Include="week3\17-1.cpp" />
     <ClCompile Include="week3\17-2.cpp" />
+    <ClCompile Include="week3\17-3.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

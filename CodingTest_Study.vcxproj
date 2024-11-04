@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="22-2.cpp" />
     <ClCompile Include="week1\P01.cpp" />
     <ClCompile Include="week1\P02.cpp" />
     <ClCompile Include="week1\P03.cpp" />

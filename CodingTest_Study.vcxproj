@@ -24,6 +24,7 @@
     <ClCompile Include="22-4.cpp" />
     <ClCompile Include="23-1.cpp" />
     <ClCompile Include="23-2.cpp" />
+    <ClCompile Include="23-3.cpp" />
     <ClCompile Include="week1\P01.cpp" />
     <ClCompile Include="week1\P02.cpp" />
     <ClCompile Include="week1\P03.cpp" />

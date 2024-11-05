@@ -31,6 +31,7 @@
     <ClCompile Include="25-1.cpp" />
     <ClCompile Include="25-2.cpp" />
     <ClCompile Include="25-3.cpp" />
+    <ClCompile Include="25-4.cpp" />
     <ClCompile Include="week1\P01.cpp" />
     <ClCompile Include="week1\P02.cpp" />
     <ClCompile Include="week1\P03.cpp" />
